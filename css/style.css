@@ -340,7 +340,7 @@ flex-direction: column;
       flex-direction: column;
     }
     .white {
-      margin-top: 20px;
+      margin-top: 25px;
       width: 600px;
       height: 1200px;
       /*display: flex;
@@ -354,7 +354,8 @@ flex-direction: column;
     }
     .whiteTwo {
       margin-left: 60px;
-      margin-bottom: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
     }
     .bottomLine {
       width: 600px;
