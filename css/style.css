@@ -304,6 +304,9 @@ flex-direction: column;
     .links:last-child {
       border-bottom: none;
     }
+    .lightgray {
+      margin-left: 20px;
+    }
     .about {
       width: 600px;
       margin-left: 0px;
@@ -343,8 +346,6 @@ flex-direction: column;
       margin-top: 25px;
       width: 600px;
       height: 1200px;
-      /*display: flex;
-      flex-direction: column;*/
     }
     .myPic {
       margin-bottom: 0px;
@@ -400,10 +401,8 @@ flex-direction: column;
     textarea {
       width: 350px;
     }
-    h2 {
-      margin-left: 140px;
-    }
-    hr {
-      margin-left: 0px;
-    }
+   h2 {
+     margin-left: 140px;
+   }
+
 }
